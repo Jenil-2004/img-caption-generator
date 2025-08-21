@@ -1,0 +1,11 @@
+numpy
+matplotlib
+pandas
+seaborn
+plotly
+tensorflow
+scikit-learn
+nltk 
+pillow
+tqdm
+-e .
